@@ -1,3 +1,4 @@
+<img width="333" height="230" alt="Screenshot 2026-06-05 103202" src="https://github.com/user-attachments/assets/28180b05-e987-45e0-bc32-7c450907e52d" />
 ## Hi there 👋🥱
 
 <!--
